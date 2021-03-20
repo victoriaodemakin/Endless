@@ -1,0 +1,4 @@
+2021-03-16T13:14:43+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 12587008 bytes) in C:\wamp64\www\Endless\wp-includes\functions.php on line 3955
+
+2021-03-16T21:33:32+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20975616 bytes) in C:\wamp64\www\Endless\wp-includes\functions.php on line 3955
+

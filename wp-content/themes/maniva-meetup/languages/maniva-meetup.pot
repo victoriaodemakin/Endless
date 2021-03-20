@@ -1,0 +1,2347 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: maniva-meetup/extension/widgets/view-post.php:1
+msgid " Display post by category "
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/system/megamenu/themeple_custom_menu.php:1
+msgid "%s (Pending)"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/tribe-events/single-event.php:169
+msgid "%s Navigation"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/tz-layout-loader.php:1
+msgid "(Imported)"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-functions.php:112
+msgid "- Post Author "
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "404 Page"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "404 Page Content"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "A ---> Z"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/template_inc/inc-menu.php:230
+msgid "ADD TO MENU"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/widgets/contact-info.php:91
+msgid "Address:"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/includes/plugins/importer/wordpress-importer.php:283
+msgid "All done."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/plugins/class-tgm-plugin-activation.php:1
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "All theme texts except headings and menu"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Archive product width 1"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Archive product width 2"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Archive product width 3"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Archive product width 4"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/admin/includes/plugins/importer/wordpress-importer.php:261
+msgid "Assign Authors"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Audio"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/woocommerce/functions.php:419
+msgid "Back to recent page"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Background"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Background Breadcrumb"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Background Color Footer"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Background Color Footer Bottom"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Background Color Footer Shop"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Background Image Header Of Event Calendar"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Background Type"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Background color code"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Behance"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/woocommerce/functions.php:995
+msgid "Best Seller Products"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Big Headings"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Blog Masonry Option"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Blog Option"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Breadcrumb Option page blog"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/system/megamenu/themeple_custom_menu.php:795
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/system/megamenu/themeple_custom_menu.php:905
+msgid "Cancel"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/widgets/view-post.php:160
+msgid "Category"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Category Blog"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Center"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Choose Color"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Choose Footer Type"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Choose Pattern"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Choose Use Fonts"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Choose category blog"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Choose color"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Chose Type BackTop"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Cloumn Item Product"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Cloumn Item Recently Viewed"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Code CSS"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Color Text Breadcrumb"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Color code"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Color logo"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/comments.php:39
+msgid "Comment navigation"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/comments.php:31
+#: maniva-meetup/index.php:144
+#: maniva-meetup/template_inc/post/content-post.php:147
+#: maniva-meetup/template_inc/post/content-post.php:260
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/comments.php:50
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Config Blog Masonry Column"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Config Color Them"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Config column number of Sidebar Archive Product."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Config column number of footer multi column Shop."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Config column number of footer multi column."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Config for Content, Main Menu, Big Headings, Small Headings, custom style"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Config mail support end phone number.Note: only Menu Type 2"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Content"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Copyright"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/tribe-events/modules/meta/details.php:122
+msgid "Cost:"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Custom"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Custom Color"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Custom Css"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Customer"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Date"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/tribe-events/modules/meta/details.php:81
+#: maniva-meetup/tribe-events/modules/meta/details.php:106
+msgid "Date:"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Default"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Default Color"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Default background for Post, Page, Portfolio, Category, Archive, Seach page."
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/widgets/social.php:183
+msgid "Delete"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/system/megamenu/themeple_custom_menu.php:819
+msgid "Description"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Desktop column"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/tribe-events/modules/meta/details.php:55
+msgid "Details"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/includes/plugins/importer/parsers.php:1
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Digg"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/plugins/class-tgm-plugin-activation.php:1
+msgid "Dismiss this notice"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/widgets/contact-info.php:1
+msgid "Display Contact info"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/widgets/social.php:1
+msgid "Display Socials"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/admin/tz-importer.php:201
+msgid "Do not run the importer multiple times one after another, it will result in double content."
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/admin/includes/plugins/importer/wordpress-importer.php:277
+msgid "Download and import file attachments"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Dribbble"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Dropbox"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "EX:fa-angle-up, link <a href=\"http://fontawesome.io/icons/\" target=\"_blank\">Font Awesome</a>"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-functions.php:70
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-functions.php:112
+msgid "Edit "
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/system/megamenu/themeple_custom_menu.php:711
+#: maniva-meetup/extension/system/megamenu/themeple_custom_menu.php:715
+msgid "Edit Menu Item"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/comments.php:55
+msgid "Email Address..."
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/widgets/contact-info.php:103
+#: maniva-meetup/tribe-events/modules/meta/organizer.php:58
+msgid "Email:"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Enable Favicon"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/tribe-events/modules/meta/details.php:96
+msgid "End:"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Event Calendar"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/functions-plazart.php:172
+msgid "Event Details"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/tribe-events/modules/meta/details.php:146
+msgid "Event Tags:"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Event on Breadcrumb shop"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/functions-plazart.php:172
+msgid "Events"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/functions-plazart.php:172
+msgid "Events List"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/functions-plazart.php:172
+msgid "Events on: "
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Facebook"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/includes/plugins/importer/wordpress-importer.php:283
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Family"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Feature Image PNG"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/woocommerce/functions.php:127
+#: maniva-meetup/template_inc/inc-quickview-image.php:16
+msgid "Featured"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Fixed"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Flickr"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Font 2 | .eot"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Font 2 | .svg"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Font 2 | .ttf"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Font 2 | .woff"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Font 2 | Name (Please use only letters or spaces, eg. Patua One)"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Font Awesome"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Font Family"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Font Option"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Font | .eot"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Font | .svg"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Font | .ttf"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Font | .woff"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Font | Name (Please use only letters or spaces, eg. Patua One)"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Footer Multi Column Option"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Footer Multi Column Options"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Footer Multi Column Shop"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Footer Multi Column Shop Option"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Footer Type"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Footer width 1"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Footer width 2"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Footer width 3"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Footer width 4"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Foursquare"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/woocommerce/functions.php:140
+msgid "Free"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Full Size Image"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Full Width"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "General Options"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/404.php:34
+msgid "Go Back To Site"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/404.php:34
+msgid "Go to the Home Page"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Google Fonts"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Google Fonts Subset"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Google Plus"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "H1, H2, H3 & H4 headings"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "H5 & H6 headings"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/includes/plugins/importer/wordpress-importer.php:283
+msgid "Have fun!"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Header Top Option"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Header Top Options"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Header menu"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Hide"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Hide Header Top"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "ID"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/widgets/social.php:161
+msgid "Icon"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/includes/plugins/importer/wordpress-importer.php:264
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Image"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Image Background slider client"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Image Slide use of slide event element"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Images"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/admin/includes/plugins/importer/wordpress-importer.php:274
+msgid "Import Attachments"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/admin/tz-importer.php:225
+#: maniva-meetup/admin/tz-importer.php:227
+msgid "Import Demo"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/admin/tz-importer.php:169
+msgid "Import Theme Options?"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/admin/tz-importer.php:181
+msgid "Import Widgets?"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/tz-layout-loader.php:1
+msgid "Import data could not be read. Please try a different file."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/tz-layout-loader.php:1
+msgid "Import file could not be found. Please try again."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/tz-importer.php:152
+msgid "Import was successful, have fun!"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/admin/tz-importer.php:193
+msgid "Important Notes:"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/tz-layout-loader.php:1
+msgid "Imported"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/tz-layout-loader.php:1
+msgid "Imported to Inactive"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "In Grid"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/woocommerce/functions.php:85
+msgid "In Stock"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Instagram"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/plugins/class-tgm-plugin-activation.php:1
+msgid "Install Plugins"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/plugins/class-tgm-plugin-activation.php:1
+msgid "Install Required Plugins"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/plugins/class-tgm-plugin-activation.php:1
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Is Featured ?"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "It Appears When Scrolling"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/search.php:233
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/template_inc/post/content-post.php:181
+#: maniva-meetup/template_inc/post/content-post.php:302
+msgid "KEEP READING"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Left"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Limit Blog"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Limit excerpt"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/widgets/view-post.php:167
+msgid "Limit post"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Limit product page shop"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Limit product recently viewed"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Limit product recently viewed "
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/widgets/view-post.php:173
+msgid "Limit text excerpt"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Limit text for excerpt"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/widgets/social.php:164
+msgid "Link"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Link Title"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Link Url"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Link image client"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Link title"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Linkedin"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/woocommerce/functions.php:629
+msgid "Loading..."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Logo & Favicon"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Logo Name"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Logo Text"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Logo Type"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Logo image"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Logo text"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Mail"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Mail support"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Main Menu"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/admin/tz-importer.php:99
+msgid "Meetup Demo Import"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/admin/themeinfo/index.php:28
+msgid "Meetup Info"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/widgets/contact-info.php:1
+msgid "Meetup: Contact info"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/widgets/social.php:1
+msgid "Meetup: Socials Widget"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/widgets/view-post.php:1
+msgid "Meetup: View post"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/system/megamenu/themeple_custom_menu.php:707
+msgid "Mega Menu"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/system/megamenu/themeple_custom_menu.php:705
+msgid "Mega Menu Column"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Mobile Landscape Column"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Mobile Portrait Column"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/widgets/contact-info.php:99
+msgid "Mobile:"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/index.php:115
+#: maniva-meetup/index.php:129
+#: maniva-meetup/search.php:82
+#: maniva-meetup/template_inc/post/content-post.php:92
+msgid "Most Popular"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Multi Column Sidebar Archive Product"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/widgets/social.php:168
+msgid "Multi color"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "My space"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Name for Custom Font uploaded below. Font will show on fonts list after click the Save Changes button."
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/system/megamenu/themeple_custom_menu.php:747
+msgid "Navigation Label"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/system/megamenu/themeple_custom_menu.php:783
+msgid "New window or tab"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-functions.php:145
+msgid "Newer posts"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+#: maniva-meetup/extension/theme-options.php:1
+#: maniva-meetup/extension/widgets/social.php:177
+msgid "No"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/search.php:211
+msgid "No Data"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/tz-layout-loader.php:1
+msgid "No Title"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/plugins/class-tgm-plugin-activation.php:1
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "None"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Number item slider"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Number of Footer Multi Columns Shop."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Number of Footer Multi Columns."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Number of Sidebar Archive Product Multi Columns."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-functions.php:144
+msgid "Older posts"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/woocommerce/functions.php:134
+#: maniva-meetup/template_inc/inc-quickview-image.php:16
+msgid "On Sale"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Audio Post"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Author"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Avatar"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Avatar Social"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Back Top"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Best Seller Products"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Breadcrumb"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Breadcrumb Shop"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Button Search Top"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Button Share"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Comment Form"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Image Post"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Image Post Type Slider"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Number Comment"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Previous-Next"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Recent View Product "
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Recently Viewed"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Related Posts"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Related Products"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Sidebar Archive Product"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Tag"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "On/Off Video Post"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Only Show Email And Phone"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Only Show Social Network"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Only use for the SoundCloud"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Only use for the quote"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Only use page category and single"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Option Breadcrumb"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Option Footer Of Home Page"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Option Footer Of Page Default"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Option Padding of Page"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Option Single Blog"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Option Width of Page"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Option tribe events Default"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Option type Post"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Option type potfolio"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Order"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Orderby"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/system/megamenu/themeple_custom_menu.php:877
+msgid "Original: %s"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/woocommerce/functions.php:118
+#: maniva-meetup/template_inc/inc-quickview-image.php:16
+msgid "Out of Stock"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Padding Bottom(px)"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Padding Top(px)"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Paste your custom CSS, the !important tag may be needed."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Pattern"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Phone"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/widgets/contact-info.php:95
+#: maniva-meetup/tribe-events/modules/meta/organizer.php:47
+msgid "Phone:"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/theme-functions.php:70
+msgid "Pingback:"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Pinterest"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Place the link you want and Behance icon will appear. To remove it, just leave it blank."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Place the link you want and Digg icon will appear. To remove it, just leave it blank."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Place the link you want and Dribbble icon will appear. To remove it, just leave it blank."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Place the link you want and Dropbox icon will appear. To remove it, just leave it blank."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Place the link you want and Facebook icon will appear. To remove it, just leave it blank."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Place the link you want and Flickr icon will appear. To remove it, just leave it blank."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Place the link you want and Foursquare icon will appear. To remove it, just leave it blank."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Place the link you want and Google Plus icon will appear. To remove it, just leave it blank."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Place the link you want and Instagram icon will appear. To remove it, just leave it blank."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Place the link you want and Linkedin icon will appear. To remove it, just leave it blank."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Place the link you want and My space icon will appear. To remove it, just leave it blank."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Place the link you want and Pinterest icon will appear. To remove it, just leave it blank."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Place the link you want and Skype icon will appear. To remove it, just leave it blank."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Place the link you want and Tumblr icon will appear. To remove it, just leave it blank."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Place the link you want and Twitter icon will appear. To remove it, just leave it blank."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Place the link you want and Vimeo icon will appear. To remove it, just leave it blank."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Place the link you want and Youtube icon will appear. To remove it, just leave it blank."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Please choose an image  back to top."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Please choose an image  to use for Breadcrumb Shop."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Please choose an image  to use for favicon."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Please choose an image  to use for logo."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/plugins/class-tgm-plugin-activation.php:1
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Please enter your event schedule, separated by new line."
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/admin/themeinfo/index.php:29
+msgid "Please paste down these information when starting a support inquiry in our supportforum"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/plugins/class-tgm-plugin-activation.php:1
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/plugins/class-tgm-plugin-activation.php:1
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Porfolio Option"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Portfolio Type"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Position Top Header"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Post Option"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Post Type"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-functions.php:112
+msgid "Posted on"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/admin/tz-importer.php:219
+msgid "Preview"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/woocommerce/functions.php:724
+#: maniva-meetup/extension/woocommerce/functions.php:798
+msgid "Quick View"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Quote"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Quote Author"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/index.php:177
+#: maniva-meetup/index.php:176
+#: maniva-meetup/search.php:174
+#: maniva-meetup/search.php:187
+#: maniva-meetup/template-blogmasonry.php:265
+msgid "READ MORE"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/woocommerce/functions.php:1048
+msgid "RECENT VIEW PRODUCT"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/woocommerce/functions.php:1211
+msgid "Read More"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/search.php:219
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/single.php:417
+msgid "Related Posts"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Relative"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/includes/plugins/importer/wordpress-importer.php:283
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/system/megamenu/themeple_custom_menu.php:903
+msgid "Remove"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-functions.php:112
+msgid "Reply"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/plugins/class-tgm-plugin-activation.php:1
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/plugins/class-tgm-plugin-activation.php:1
+msgid "Return to the Dashboard"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Right"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Right to left"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/system/megamenu/themeple_custom_menu.php:781
+msgid "Same window or tab"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+#: maniva-meetup/tribe-events/single-event.php:126
+msgid "Schedule"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/searchform.php:12
+#: maniva-meetup/searchform.php:14
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/functions-plazart.php:172
+msgid "Search Results for... "
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/searchform.php:13
+msgid "Search..."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Select the number of columns to display in the archive product."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Select the number of columns to display in the footer."
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/single.php:283
+msgid "Share"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Shop Detail Option"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Shop option"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Show"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Show Header Top"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/widgets/view-post.php:179
+msgid "Show Image"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/widgets/view-post.php:206
+msgid "Show Info"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Show Or Hide Header Top"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Show Sidebar"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/widgets/view-post.php:188
+msgid "Show Title"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/widgets/view-post.php:197
+msgid "Show excerpt"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Show hide slider client"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Show or hide Favicon"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/woocommerce/functions.php:486
+msgid "Sidebar"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Sidebar Archive Product Multi Column Option"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Sidebar Option"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/tz-layout-loader.php:1
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Single Blog"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Single Image Background"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Single image"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/tz-layout-loader.php:1
+msgid "Site does not support widget"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Size background img 1920x99"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Skype"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Slides Client"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Slideshow"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Slideshows"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Small Headings"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Social Network"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Some of the fonts in the Google Fonts Directory support multiple styles. For a complete list of available font subsets please see <a href=\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts</a>."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/plugins/class-tgm-plugin-activation.php:1
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/search.php:225
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/includes/plugins/importer/wordpress-importer.php:283
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "SoundCloud ID"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Specify which subsets should be downloaded. Multiple subsets should be separated with coma (,)"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/tribe-events/modules/meta/details.php:66
+#: maniva-meetup/tribe-events/modules/meta/details.php:91
+msgid "Start:"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "StyleConfig"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/admin/includes/plugins/importer/wordpress-importer.php:281
+msgid "Submit"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Tablet Portrait Column"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/single.php:342
+msgid "Tags:"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Text recently viewed"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Text recently viewed "
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/admin/tz-importer.php:200
+msgid "The Demo Importer will not import the images we have used in our live demos, due to copyright / license reasons"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/functions-plazart.php:172
+msgid "The Events Calendar"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/includes/plugins/importer/wordpress-importer.php:283
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/includes/plugins/importer/wordpress-importer.php:283
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/plugins/class-tgm-plugin-activation.php:1
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Theme Color"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/plugins/class-tgm-plugin-activation.php:1
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/includes/plugins/importer/parsers.php:1
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/includes/plugins/importer/wordpress-importer.php:283
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/includes/plugins/importer/parsers.php:1
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "This is Slide image of element slide event (1920x770)."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "This is Thumbnail image of element slide event (360x200)."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "This is the full size image."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/plugins/class-tgm-plugin-activation.php:1
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Thumbnail Image use of slide event element"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/tribe-events/modules/meta/details.php:1
+msgid "Time:"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+#: maniva-meetup/extension/widgets/view-post.php:153
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/system/megamenu/themeple_custom_menu.php:765
+msgid "Title Attribute"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Title Background Footer"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/system/megamenu/themeple_custom_menu.php:749
+msgid "Title for the Mega Menu Column"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/widgets/contact-info.php:87
+#: maniva-meetup/extension/widgets/social.php:115
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/admin/includes/plugins/importer/wordpress-importer.php:262
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/admin/tz-importer.php:199
+msgid "To reset your installation we can recommend this plugin here:"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Tumblr"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Twitter"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Type 1"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Type 1 - One Column Center"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Type 2"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Type 2 - Multi column"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Type 3 - One Column Center & Multi column"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Type menu"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Type position of header on desktop"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Type position of header on mobile"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/system/megamenu/themeple_custom_menu.php:733
+msgid "URL"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/plugins/class-tgm-plugin-activation.php:1
+msgid "Update Required"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/plugins/class-tgm-plugin-activation.php:1
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Upload Background Image Breadcrumb Shop"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Upload Favicon Icon"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Upload Image Back To Top"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Upload Logo"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Use of page category, single, archive, author, tag, search, 404, event"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Video"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Video ID"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Video Type"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/woocommerce/functions.php:1083
+msgid "View Details"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/woocommerce/functions.php:467
+msgid "View Style"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/woocommerce/functions.php:30
+msgid "View your shopping cart"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Vimeo"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/admin/tz-importer.php:198
+msgid "We recommend to run this importer on a clean WordPress installation."
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/widgets/contact-info.php:107
+#: maniva-meetup/tribe-events/modules/meta/details.php:153
+#: maniva-meetup/tribe-events/modules/meta/organizer.php:69
+msgid "Website:"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/tz-layout-loader.php:1
+msgid "Widget already exists"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+#: maniva-meetup/extension/theme-options.php:1
+#: maniva-meetup/extension/widgets/social.php:178
+msgid "Yes"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "You can choose the background you want between our pre-provided pattern and your custom image."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "You can set padding bottom for page content. Default:100px"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "You can set padding top for page content. Default:100px"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/admin/tz-importer.php:101
+msgid "You have already imported the demo content before. Running this operation twice will result in double content!"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/comments.php:55
+msgid "Your Comment..."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/comments.php:55
+msgid "Your Name..."
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/theme-functions.php:85
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+#: maniva-meetup/extension/theme-options.php:1
+msgid "Youtube"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "Z ---> A"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/single.php:401
+msgid "author"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/single.php:535
+msgid "by"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/index.php:140
+#: maniva-meetup/search.php:141
+#: maniva-meetup/template-blogmasonry.php:247
+#: maniva-meetup/template_inc/post/content-post.php:140
+#: maniva-meetup/template_inc/post/content-post.php:253
+msgid "by "
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "config width for footer"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "config width for sidebar archive product"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/template_inc/inc-menu.php:88
+msgid "email"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/woocommerce/functions.php:472
+msgid "grid style"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/widgets/social.php:174
+msgid "highlight Option"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/system/megamenu/themeple_custom_menu.php:807
+msgid "link Relationship (XFN)"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/system/megamenu/themeple_custom_menu.php:777
+msgid "link Target"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/extension/woocommerce/functions.php:478
+msgid "list style"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "logo name for your website"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "logo text color"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "logo use for header event calendar."
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/single.php:593
+msgid "next post"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/single.php:553
+msgid "noimage"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "option font type"
+msgstr ""
+
+#. Text in echo
+#: maniva-meetup/template_inc/inc-menu.php:84
+msgid "phone"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/single.php:592
+msgid "previous post"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/theme-options.php:1
+msgid "select type for logo text or image"
+msgstr ""
+
+#. Text in function
+#: maniva-meetup/extension/portfolio-meta-boxes.php:1
+msgid "vimeo"
+msgstr ""

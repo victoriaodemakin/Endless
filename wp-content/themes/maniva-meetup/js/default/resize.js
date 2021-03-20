@@ -1,0 +1,1 @@
+"use strict";var resizeImage=function(t,e,r,i){var a=r/t,h=i/e,n=a>h?a:h,s=t*n,u=e*n,c=0,f=0;return u>i&&(c=(i-u)/2),s>r&&(f=(r-s)/2),{top:c,left:f,width:s,height:u}};

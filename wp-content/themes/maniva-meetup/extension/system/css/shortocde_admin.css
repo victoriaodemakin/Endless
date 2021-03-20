@@ -1,0 +1,214 @@
+/* about us*/
+.about-textarea{
+    width: 319px;
+}
+.about-item-input,
+.about-textarea{
+    font-size: 13px;
+}
+.fancybox-desktop{
+    margin-top: 28px !important;
+}
+/*style shortocde acoordion*/
+.tzadditem{
+    margin-top: 10px;
+}
+.tzinsertshortocde{
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.accordion-item:first-child{
+    margin-top: 0;
+}
+.tzshortocde-item{
+    margin-top: 20px;
+    position: relative;
+}
+.delete-item{
+    background: url("../../images/minus-circle.png") no-repeat  transparent;
+    cursor: pointer;
+    height: 45px;
+    position: absolute;
+    right: -72px;
+    top: 28px;
+    width: 45px;
+    display: none;
+}
+.remove-item{
+    display: block !important;
+}
+.tzwarpform{
+    width: 85%;
+    padding-top: 20px !important;
+}
+.tzpreview{
+    background: none repeat scroll 0 0 #f1f1f1;
+    margin-top: 40px;
+    padding: 30px 10px;
+
+}
+.tzpreview .heading-title{
+    padding: 0px 0 20px;
+}
+.heading-title{
+    color: #000;
+    padding: 30px 0 20px;
+    font-size: 16px;
+}
+.none-remove-item{
+    display: none;
+
+}
+.list-item{
+    position: relative;
+    margin-top: 18px;
+}
+.remove-item{
+    position: absolute;
+    right: -10%;
+    top: 0;
+}
+#shortcode-column-list{
+    padding-bottom: 30px;
+}
+.list-preview{
+    background:  #ececec;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 0 10px 40px;
+}
+#create_youtube{
+    width: 500px;
+}
+#create_youtube input{
+    width: 70%;
+    margin-top: 25px;
+    padding: 10px;
+}
+#create_youtube button{
+    margin-top: 25px;
+}
+#create_vimeo{
+    width: 500px;
+}
+#create_vimeo input{
+    width: 70%;
+    margin-top: 25px;
+    padding: 10px;
+}
+#create_vimeo button{
+    margin-top: 25px;
+}
+
+.form-group label{
+    margin: 15px 0;
+    font-size: 14px;
+}
+
+/*accordion*/
+#create_accordion,
+#create_tabs,
+#create_column,
+#create_image{
+    width: 500px;
+    padding: 30px 0;
+}
+.create_content{
+    margin-bottom: 30px;
+}
+.tzheadding {
+    font-size: 14px;
+    margin: 15px 0;
+}
+.tzinput{
+    width: 90%;
+    height: 40px;
+}
+.tztextarea{
+    width: 90%;
+}
+.create_item{
+    position: relative;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #efefef;
+}
+.tz-new{
+    background: #5cb85c;
+    border: 0 none;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    color: #fff;
+    display: block;
+    margin-bottom: 30px;
+    padding: 6px 30px;
+    cursor: pointer;
+    line-height: 16px;
+}
+.tz-remove{
+    background: url("../images/remove.png") no-repeat scroll center center / 22px 22px transparent;
+    border: 0 none;
+    height: 33px;
+    width: 33px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+    display: none;
+}
+.tz-remove-block{
+    display: block !important;
+}
+#column_select{
+    width: 90%;
+}
+.tzpreview{
+    padding: 10px;
+    background: #f0f0f0;
+    margin: 10px 0 30px;
+}
+.tzpreview span{
+    background-color: #f7f7f9;
+    color: #d14;
+    display: block;
+    font-size: 14px;
+    line-height: 25px;
+}
+.tzpreview span.shortcode-preview-c{
+    padding-left: 20px;
+}
+.image-upload-value{
+    width: 65%;
+    height: 32px;
+    margin-top: 2px;
+}
+.create_image_item{
+    margin-bottom: 15px;
+    position: relative;
+}
+.tzupload-image{
+    height: 32px;
+    border-radius: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    border: 1px solid #bbbbb9;
+    cursor: pointer;
+}
+
+/* shortcode list */
+.create_list_item{
+    position: relative!important;
+}
+
+.form-group label.TzListTitle{
+    display: block;
+}
+.form-group textarea{
+    width:100%;
+}

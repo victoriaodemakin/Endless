@@ -1,0 +1,64 @@
+body #tab_logo a{
+    background: url("../images/logo_favicon.png") no-repeat left center;
+}
+body #tab_TZThemecolor a{
+    background: url("../images/bg_color.png") no-repeat left center;
+}
+body #tab_headertop_option a{
+    background: url("../images/header-top.png") no-repeat left center;
+}
+body #tab_breadcrumb a{
+    background: url("../images/bg_breadcrumb.png") no-repeat left center;
+}
+body #tab_TZSingleBlog a{
+    background: url("../images/bg_config.png") no-repeat left center;
+}
+body #tab_TZShop a{
+    background: url("../images/cart.png") no-repeat left center;
+}
+body #tab_TZShopDetail a{
+    background: url("../images/box.png") no-repeat left center;
+}
+body #tab_TZCart a{
+    background: url("../images/cart1.png") no-repeat left center;
+}
+body #tab_TZEventCalendar a{
+    background: url("../images/events.png") no-repeat left center;
+}
+
+#setting_maniva_meetup_portfolio_sidebar{
+    display: none;
+}
+
+#setting_maniva_meetup_portfolio_height{
+    display: none;
+}
+
+#setting_maniva_meetup_PageDefault_paddingBottom,
+#setting_maniva_meetup_PageDefault_paddingTop,
+#setting_maniva_meetup_logoloading,
+#setting_maniva_meetup_TZThemecustom,
+#setting_maniva_meetup_TZThemecolor,
+#setting_maniva_meetup_tzBreadcrumb_shopImage,
+#setting_maniva_meetup_tzBreadcrumb_shopColor,
+#setting_maniva_meetupfooterwidth5_shop,
+#setting_maniva_meetupfooterwidth4_shop,
+#setting_maniva_meetupfooterwidth3_shop,
+#setting_maniva_meetupfooterwidth2_shop,
+#setting_maniva_meetupfooterwidth1_shop,
+#setting_maniva_meetupfooterwidth4,
+#setting_maniva_meetupfooterwidth3,
+#setting_maniva_meetupfooterwidth2,
+#setting_maniva_meetupfooterwidth1,
+#setting_maniva_meetup_tzCartEventOne,
+#setting_maniva_meetup_tzCartEventTwo,
+#setting_maniva_meetup_tzCartEventThree,
+#setting_maniva_meetup_tzEventThreeTime,
+#setting_maniva_meetup_tzEventThreeName,
+#setting_maniva_meetup_tzEventTwoTime,
+#setting_maniva_meetup_tzEventTwoName,
+#setting_maniva_meetup_tzEventOneTime,
+#setting_maniva_meetup_tzEventOneName,
+#setting_maniva_meetup_TZShopSidebar{
+    display:none;
+}

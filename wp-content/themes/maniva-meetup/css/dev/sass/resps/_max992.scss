@@ -1,0 +1,136 @@
+
+
+@media only screen and (max-width: 992px) {
+  .tz_width_boxed.tz-headerHome.tz-homeType6 {
+    .tz-header-content {
+      padding: 0;
+    }
+  }
+  .tz-headerHome.tz-homeType6 {
+    .container {
+      padding-right: 0;
+      padding-left: 0;
+    }
+
+    .tz_boxed {
+
+      a.tz_logo {
+        padding: 23px 0 23px 0;
+
+      }
+
+      .navbar-toggle {
+        margin-top: 20px;
+      }
+
+      nav {
+        margin-top: 70px;
+
+        ul.tz-nav {
+          left: 0;
+
+          > li > a {
+            padding: 15px 18px 15px 18px;
+          }
+        }
+
+      }
+
+      .tz_shop_cart_icon {
+        padding: 26px 0 8px 0;
+
+      }
+
+      .tz-headerRight__social {
+        padding: 25px 20px 0 10px;
+
+      }
+
+      .tz-headerRight__social .search-display__area .searchform {
+        left: 0;
+        right: 10px;
+        top: 74px;
+      }
+
+      .tz_shop_cart_icon a.tz-shop-cart span {
+        top: -10px;
+        right: 4px;
+      }
+
+      .tz_shop_cart_icon .tz_shop_quick_cart_view .widget_shopping_cart {
+        top: 42px;
+        left: -132px;
+      }
+
+    }
+  }
+  .tz_home_slider_meetup.event_slider {
+    .tz_content_slider_meetup {
+      .tz_meetup_social {
+        margin-bottom: 22px;
+      }
+
+      .tz_meetup_slider_home_text {
+        margin-bottom: 20px;
+
+        p {
+          a img {
+            width: 95%;
+          }
+        }
+
+        p:nth-of-type(1) {
+          margin-bottom: 20px;
+        }
+
+        p:nth-of-type(2) {
+          margin: 20px 0 0 0;
+
+          span {
+            font-size: 45px !important;
+
+          }
+        }
+      }
+
+      .tz_readmore {
+        margin-top: 40px;
+      }
+    }
+  }
+  /*element counter type2*/
+  .tz-counter.tz_counter_type_2 {
+    .tz-counter-font {
+      i.fa {
+        font-size: 60px;
+
+      }
+    }
+
+    .tz-counter-number {
+      em.stat-count {
+        font-size: 45px;
+      }
+    }
+
+  }
+
+
+}
+@media only screen and (width: 992px) {
+  .tz-headerHome.tz-homeType6 .tz_boxed nav {
+    margin-top: 15px;
+  }
+  .tz-headerHome.tz-homeType6 .tz_boxed .tz-headerRight__social .search-display__area .searchform {
+    left: -359px;
+    right: 10px;
+    top: 89px;
+  }
+  .tz-headerHome.tz-homeType6 .tz_boxed .tz_shop_cart_icon{
+    padding: 26px 0 0px 0;
+  }
+  .tz-headerHome.tz-homeType6 .tz_boxed .tz_shop_cart_icon a.tz-shop-cart span {
+    top: -40px;
+    right: -12px;
+  }
+}

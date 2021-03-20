@@ -1,0 +1,101 @@
+.tz_md_modal_show.tz_speakers_type3 {
+  .tz_our_speakers_img{
+    border-radius: 5px;
+  }
+
+  .tz_our_speakers {
+    margin-bottom: 0;
+
+    &:hover {
+      .tz_our_speakers_img:before {
+        background: rgba(0, 0, 0, 0.5);
+      }
+
+      .tz_meetup_social_speakers {
+        opacity: 1;
+        margin-top: -40px;
+        @include transition(all 0.4s ease 0.6s);
+      }
+      .tz_text_hover_speaker{
+        @include transformY(40px);
+        @include transition(all 0.4s ease 0.6s);
+        opacity: 1;
+      }
+      .tz_our_speakers_container {
+        margin-top: -35px;
+        opacity: 1;
+        span{
+          opacity: 1;
+          @include transition(all 0.4s ease 0.3s);
+        }
+        h4{
+          opacity: 1;
+          @include transition(all 0.4s ease 0.4s);
+        }
+        p.tz_excerpt_speakers{
+          opacity: 1;
+          @include transition(all 0.4s ease 0.5s);
+        }
+      }
+    }
+    .tz_meetup_social_speakers {
+      @include transformY(65px);
+
+      a {
+        &:hover {
+          color: $theme-color;
+        }
+
+        i.fa {
+          font-size: 14px;
+        }
+      }
+
+    }
+    .tz_text_hover_speaker{
+      @include transformY(60px);
+    }
+    .tz_our_speakers_container {
+      width: 100%;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translateX(-50%);
+      border: unset;
+      padding: 0;
+      z-index: 1;
+      opacity: 0;
+
+      span {
+        font-size: 12px;
+        line-height: 24px;
+        color: white;
+        @include Raleway;
+        font-weight: $medium_font;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        opacity: 0;
+      }
+
+      h4 {
+        font-size: 18px;
+        letter-spacing: 0.2px;
+        line-height: 24px;
+        text-transform: uppercase;
+        color: white;
+        @include Roboto;
+        opacity: 0;
+      }
+
+      p.tz_excerpt_speakers {
+        color: #ffffff;
+        text-align: center;
+        padding: 0 20px;
+        margin-top: 45px;
+        opacity: 0;
+      }
+    }
+  }
+
+
+}

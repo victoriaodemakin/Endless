@@ -1,0 +1,339 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+Theme Name: Maniva Meetup WordPress Theme
+Theme URI: http://www.templaza.com/
+Author: templaza
+Author URI: http://themeforest.net/user/templaza
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: ajax contact form, animation, blog, bootstrap, business, corporate, css3, html5, portfolio, responsive
+------------------------------------------------------------------*/
+
+
+/**
+* Table of Contents:
+* 1.0 - Reset right to left
+* -----------------------------------------------------------------------------
+*/
+
+.tz_maniva_about_meetup,
+.tz_event_meetup,
+.tz_meetup_ask_question,
+.tz_register_meetup_pricing_item_container,
+.tz_recent_blog_meetup_detail,
+.tz-footer.tz-footer-type1 aside.widget.MultiColorSubscribeWidget .multicolor-subscribe form.multicolor-subscribe-form input.email,
+.tz-blogDefault .tz-blogItem .tz-blogContent .tz-blogBox,
+.tz-sidebar aside.widget,
+aside.widget .multicolor-subscribe-form .mcolor-subbox,
+.tz-blogSingle .tz-blogSingleContent .tz-SingleContentBox,
+.tz-homeType1 .tz-form-search .Tzsearchform,
+.tzComments,
+.tzComments .comments-area .comment-respond form.comment-form .form-comment-item textarea,
+.tzComments .comments-area .comment-respond form.comment-form .form-comment-item input.form-control,
+.tz_contact_meet_2,
+.wpcf7-form .tz_meetup_wpcf7-form p span input,
+.wpcf7-form .tz_meetup_wpcf7-form p span textarea.wpcf7-textarea,
+.tz_sidebar_shop_product .widget_product_search input#woocommerce-product-search-field,
+.tzProduct-infoLeft,
+.tzFooter-Shop-Multi .tz-footerTop .footerattr aside.widget,
+.product-list .tz_meetup_content_product_sub,
+.product-quick-content .tz-entry-summary,
+.tzShopContentDetail .tzShopDetail_Product.tzShopDetail_NoSidebar .tzShopDetail_info,
+.tzShopContentDetail .tzShopDetail_Product .woocommerce-tabs #tab-reviews #reviews #review_form_wrapper #review_form #respond form.comment-form p.comment-form-comment textarea,
+.tz-plazart-list,
+.tz_maniva_meetup_title.tz_text_align_left,
+.wpcf7-form .tz_meetup_paypal_wpcf7-form,
+.wpcf7-form .tz_meetup_paypal_wpcf7-form p span input,
+.tz_modal_speakers_content,
+.tzContact_2 {
+    text-align: right;
+}
+.tz-homeType1 .tz-form-search .fa.tz-form-close {
+    right: auto;
+    left: 0;
+}
+.tz-headerHome a.tz_logo {
+    padding-right: 0;
+    padding-left: 40px;
+}
+.tz-homeType1 a.tz_logo {
+    padding-right: 0;
+    padding-left: 40px;
+}
+.tz-homeType1 button.tz-search {
+    margin-left: 0;
+    margin-right: 25px;
+}
+.tz_event_meetup_content {
+    border-left: none;
+    border-right: 3px solid #eeeeee;
+    padding-left: 0;
+    padding-right: 125px;
+}
+.tz_event_meetup_content .tz_meetup_box_detail .tz_meetup_box_detail_custom {
+    padding-right: 22px;
+    padding-left: 40px;
+}
+.tz_event_meettup_box_content:before,
+.tz_event_meettup_box_content:after {
+    right: 0;
+    left: auto;
+}
+.tz_event_meetup_content .tz_meetup_box_detail span.tz_meetup_start_time {
+    right: -110px;
+    left: auto;
+}
+.tz_event_meetup_content .tz_meetup_box_detail:before {
+    right: -136px;
+    left: auto;
+}
+.tz_event_meetup_content .tz_meetup_box_detail:after {
+    right: -20px;
+    left: auto;
+    border-right: 20px solid transparent ;
+}
+.tz_meetup_question span.tz_icon_meetup_question {
+    float: right;
+}
+.tz_meetup_question h4 {
+    margin-left: 0;
+    margin-right: 40px;
+}
+.tz_meetup_ask {
+    padding-left: 0;
+    padding-right: 40px;
+}
+.tz_image_recent_blog_meetup .tz_recent_blog_meetup_date {
+    right: 0;
+    left: auto;
+    border-top-left-radius: 0;
+    -webkit-border-top-left-radius: 0;
+    -moz-border-top-left-radius: 0;
+    -ms-border-top-left-radius: 0;
+    -o-border-top-left-radius: 0;
+
+    border-top-right-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-top-right-radius: 5px;
+    -ms-border-top-right-radius: 5px;
+    -o-border-top-right-radius: 5px;
+
+    border-bottom-right-radius: 0;
+    -webkit-border-bottom-right-radius: 0;
+    -moz-border-bottom-right-radius: 0;
+    -ms-border-bottom-right-radius: 0;
+    -o-border-bottom-right-radius: 0;
+
+    border-bottom-left-radius: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    -moz-border-bottom-left-radius: 5px;
+    -ms-border-bottom-left-radius: 5px;
+    -o-border-bottom-left-radius: 5px;
+}
+.tz-footer.tz-footer-type1 aside.widget.MultiColorSubscribeWidget .multicolor-subscribe form.multicolor-subscribe-form input.mcolor-button {
+    right: auto;
+    left: 15px;
+}
+.tz-sidebar aside.widget_search form input.Tzsearchform {
+    text-align: right;
+    padding-left: 50px;
+    padding-right: 19px;
+}
+.tz-sidebar aside.widget_search form .tz-icon-form-search {
+    left: 0;
+    right: auto;
+}
+aside.widget h3.module-title:before,
+.tz-blogSingle .tz-blogSingleContent .tz-SingleContentBox .tz_SingleContentBox_general .tz_SingleContentBox_author.tz_SingleContentBox_author_hide {
+    right: 0;
+    left: auto;
+}
+.tz-blogSingle .tz-blogSingleContent .tz-SingleContentBox .tz_SingleContentBox_general .tz_SingleContentBox_like {
+    text-align: left;
+}
+.tz-blogSingle .tz-blogSingleContent .tz-SingleContentBox .tz_SingleContentBox_general .tz_SingleContentBox_like .share-wrap .share-wrap-content {
+    right: auto;
+    left: 0;
+    transform-origin: left center;
+    -moz-transform-origin: left center;
+    -webkit-transform-origin: left center;
+    -ms-transform-origin: left center;
+    -o-transform-origin: left center;
+}
+.tz-blogSingle .author .author-box .author-avata,
+.tz_contact_detail_meet span.tz_contact_meet_icon,
+.tzShop_productRecent .tzShop_recentContainer .tzShop_recentItem .tzShop_itemImage,
+.tzFooter-Shop-Multi aside.widget .multicolor-subscribe-form .mcolor-subbox,
+.tzFooter-Shop-Multi aside.widget .multicolor-subscribe-form .mcolor-button,
+.tzProductContent_List,
+.product-list .tz_meetup_content_product_sub,
+.slideshow-main,
+.slideshow-carousel,
+#tzShopDetail_slide,
+.related .tzRelatedSlider_Container .tzRelatedSlider .tzRelatedsliderItem .tzProduct-info .tzProduct-infoTop .tzProduct-infoLeft,
+.tzShopContentDetail .tzShopDetail_Product .woocommerce-tabs #tab-reviews #reviews #comments ol.commentlist li.comment .comment_container .tzComment_avatar,
+.tz-plazart-list li span.tz_icon_maniva_list {
+    float: right;
+}
+.tz-blogSingle .author .author-box .author-info {
+    text-align: right;
+    margin-right: 225px;
+    margin-left: 0;
+}
+.tzComments .comments-area .comment-respond form.comment-form .form-comment-item i.fa {
+    left: 15px;
+    right: auto;
+}
+.tz_contact_detail_meet h4,
+.tz_meetup_contact_detail {
+    margin-left: 0;
+    margin-right: 65px;
+}
+.wpcf7-form .tz_meetup_wpcf7-form p i.fa {
+    right: auto;
+    left: 10px;
+}
+.tz_sidebar_shop_product .woocommerce-product-search:after {
+    right: auto;
+    left: 15px;
+}
+.tzShop_productRecent .tzShop_recentContainer .tzShop_recentItem .tzShop_itemInfo {
+    margin-left: 0;
+    margin-right: 108px;
+    text-align: right;
+}
+.product-list .tzProduct-inforight,
+.rtl-right,
+.rtl-left {
+    float: right !important;
+}
+.product-list .tzOut-of-stock,
+.product-list .tzProductSale {
+    left: 35px;
+    right: auto;
+}
+.slideshow-main {
+    margin-right: 0;
+    margin-left: 7px;
+}
+.tzdelete-quick {
+    left: 20px;
+    right: auto;
+}
+.tzQuickview_img .tzProductSale {
+    right: 12px;
+    left: auto;
+}
+.tzShopContentDetail .tzShopDetail_Product .tzShopDetail_info .woocommerce-product-rating .star-rating {
+    float: right;
+    margin-left: 10px;
+    margin-right: 0;
+}
+.tzShopContentDetail .tzShopDetail_Product.tzShopDetail_NoSidebar .tzShopDetail_info .yith-wcwl-add-to-wishlist {
+    margin-right: 0;
+    margin-left: 115px;
+}
+span.tz_shop_cart_icon {
+    margin-left: 0;
+    margin-right: 20px;
+}
+.tzShopDetail_Product #tzShopDetailSlide-carousel {
+    float: right;
+    margin-left: 0;
+    margin-right: 20px;
+}
+.tzShopContentDetail p.comment-form-rating.tzCommentFormFull p.stars span {
+    text-align: left;
+}
+.tzShopContentDetail .tzShopDetail_Product .woocommerce-tabs #tab-reviews #reviews #review_form_wrapper #review_form #respond h3.comment-reply-title:after {
+    left: auto;
+    right: 0;
+}
+.related .tzRelatedSlider_Container .tzRelatedSlider .tzRelatedsliderItem .tzProduct-info .tzProduct-infoTop .tzProduct-Rating {
+    float: left;
+}
+.related .tzRelatedSlider_Container .tzRelatedSlider .tzRelatedsliderItem .tzProduct-info .tzProduct-infoBottom .tzProduct_price {
+    float: right;
+    text-align: right;
+}
+.related .tzRelatedSlider_Container .tzRelatedSlider .tzRelatedsliderItem .tzProduct-info .tzProduct-infoBottom .tzProduct_button {
+    float: left;
+    text-align: left;
+}
+.tzShopContentDetail .tzShopDetail_Product .woocommerce-tabs #tab-reviews #reviews #comments ol.commentlist li.comment .comment_container .comment-text {
+    margin-left: 0;
+    margin-right: 130px;
+}
+.tz-plazart-list li p.tz_list_item_content {
+    margin-left: 0;
+    margin-right: 30px;
+}
+.wpcf7-form .tz_meetup_paypal_wpcf7-form p span input {
+    padding: 13px 28px;
+}
+.wpcf7-form .tz_meetup_paypal_wpcf7-form p.tz_meetup_quantity_paypal sub.tz_meetup_quantity_paypal_input span:after,
+.wpcf7-form .tz_meetup_paypal_wpcf7-form p.tz_meetup_quantity_paypal sub.tz_meetup_quantity_paypal_input span:before {
+    right: 30px;
+}
+.tz_meetup_btn.text-left {
+    text-align: right;
+    padding-right: 125px !important;
+    padding-left: 0 !important;
+}
+
+/* Landscape phones and down */
+@media (max-width: 991px) {
+
+    .tz-headerHome .tzHeaderMenu_nav {
+        float: left;
+    }
+    .tz-headerHome .tzHeaderMenu_nav nav {
+        right: auto;
+        left: 0;
+        width: 100%;
+    }
+    .tz-headerHome.tz-homeType1 .tzHeaderMenu_nav {
+        float: left;
+    }
+    .tz-headerHome.tz-homeType1 button.tz-search {
+        left: 80px;
+        right: auto;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .product-list .tzProduct-inforight, .rtl-right, .rtl-left {
+        float: none !important;
+    }
+}
+
+@media (max-width: 480px) {
+
+    .tz_event_meetup_content {
+        padding-right: 45px;
+    }
+    .tz_event_meetup_content .tz_meetup_box_detail .tz_meetup_box_detail_custom {
+        padding: 22px 10px 10px 0;
+    }
+    .tz_event_meetup_content .tz_meetup_box_detail span.tz_meetup_start_time {
+        right: -44px;
+    }
+    .tz_event_meetup_content .tz_meetup_box_detail:before {
+        right: -56px;
+    }
+    .tz_meetup_btn.text-left {
+        padding-right: 45px !important;
+    }
+    .tz-blogSingle .author .author-box .author-avata {
+        float: none;
+    }
+    .tz-blogSingle .author .author-box .author-info {
+        margin-right: 0;
+    }
+    .tzShopContentDetail .tzShopDetail_Product.product-type-simple .tzShopDetail_info form.cart {
+        float: right;
+    }
+
+}

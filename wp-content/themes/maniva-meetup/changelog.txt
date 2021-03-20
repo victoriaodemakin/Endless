@@ -1,0 +1,261 @@
+25/11/2020:
+- Maniva Meetup version 1.7.8
+	+ Update Revolution Slider version 6.3.1
+	+ Update Visual Composer version 6.4.2
+	+ Updated Plazart MeetUp plugin 1.4.8
+	+ Passed with Envato Theme Check
+	+ Validation data with esc_attr, esc_url, esc_js...
+	+ Fixed Plugin installation failed Plazart installation
+	+ Verify all AJAX request with a nonce: check_ajax_referer()
+	+ Sanitized data $_POST, $_GET
+
+23/09/2020:
+- Maniva Meetup version 1.7.7
+	+ Update Revolution Slider version 6.2.23
+	+ Update Visual Composer version 6.4.0
+	+ Fixed dropdown theme option
+14/8/2020:
+- Maniva Meetup version 1.7.6
+    + Add Paypal payment register form
+	+ Update Revolution Slider version 6.2.18
+	+ Updated Plazart MeetUp plugin 1.4.7
+	+ Fixed js in admin option
+	+ Fixed vimeo social icon
+
+19/6/2020:
+- Maniva Meetup version 1.7.5
+    + Add Speed Transition for Partner element
+	+ Update Revolution Slider version 6.2.12
+	+ Update Visual Composer version 6.2
+	+ Updated Tz Meetup plugin 1.4.6
+	+ Fixed is_cart() error when deactive Woocommerce
+
+1/4/2020:
+- Maniva Meetup version 1.7.2
+	+ Added home version 11
+	+ Update Revolution Slider version 6.2.2
+17/02/2020:
+- Maniva Meetup version 1.7.2
+	+ Update OneClick install data demo
+	+ Update Visual Composer version 6.1
+	+ Update Revolution Slider version 6.1.8
+08/11/2018:
+- Maniva Meetup version 1.7
+ + Updated Visual Composer Version 5.5.5
+ + Included plugin Option Tree 2.6.0 in the theme
+-----------------------------------------------------
+12/10/2018:
+- Maniva Meetup version 1.6.9
+ + Updated Visual Composer Version 5.5.4
+ + Fix error missing body tag
+-----------------------------------------------------
+13/07/2018:
+- Maniva Meetup version 1.6.8
+ + Updated Revolution Slider Version 5.4.8
+ + Updated Visual Composer Version 5.5.2
+ + Add more 5 loading styles
+------------------------------------------------------
+24/05/2018:
+- Maniva Meetup version 1.6.7
+ + Updated Revolution Slider Version 5.4.7.3
+ + Added an option loading page
+------------------------------------------------------
+27/03/2018:
+- Maniva Meetup version 1.6.6
+ + Updated Tz Meetup plugin 1.4.5
+ + Updated Revolution Slider Version 5.4.7.2
+ + Updated Visual Composer Version 5.4.7
+ + Updated Home version 9
+------------------------------------------------------
+22/02/2018:
+- Maniva Meetup version 1.6.5
+    + Update template woocommerce to compatible plugin Woocommerce v3.3.3
+	+ Updated Revolution Slider 5.4.7.1
+--------------------------------------------------
+14.12.2017
+- Maniva Meetup version 1.6.4
+ + Added New Home 8
+ + Updated Tz Meetup plugin 1.4.4
+ + Updated Revolution Slider Version 5.4.6.4
+ + Updated Visual Composer Version 5.4.5
+ + Fixed error with TZ Plus Gallery that was unable to close image when viewing on mobile
+ + Fixed error of Our Speaker Slider element that could not open social links in new tabs
+ + Fixed error of Our Team element that the popup was not displayed correctly
+---------------------------------------------
+19.10.2017
+- Updated Tz Meetup plugin 1.4.2
+- Fixed error responsive home calendar
+- Updated Visual Composer 5.4.1
+----------------------------------------------
+08.08.2017 Version 1.6.0
+- Updated Revolution Slider Version 5.4.5.1
+- Updated Visual Composer Version 5.2.1
+- Updated Plazart Meetup Plugin version 1.4.1
+- Update data demo one click
+
+24.05.2017 Version 1.5.9
+- Update hover show product your cart when add to cart
+
+18.05.2017 Version 1.5.8
+- Update Sidebar Archive Product
+- Updated Plazart Meetup Plugin version 1.4.0
+    + Fix Video HTML5 not play on mobile
+
+12.05.2017 Version 1.5.7
+- Fix Bug Update Woocommerce
+- Updated Revolution Slider Version 5.4.3.1
+- Updated Plazart Meetup Plugin version 1.3.9
+
+27.4.2017 Version 1.5.6
+- Updated Visual Composer Version 5.1.1
+- Updated Plazart Meetup Plugin version 1.3.8
+  + Fix Countdown Element Features Event
+  + Add Option Show Or Hide AddToAny Plugin Of Element Features Event
+  + Add Option Auto Slider Element Features Event
+  + Add Option Show Or Hide Contact Form 7 Element Features Event
+
+5.4.2017 Version 1.5.5
+- Fixes Bug Cookie
+- Updated Plazart Meetup Plugin version 1.3.7
+    + Add Option Cart Shop Element Header
+
+27.3.2017 Version 1.5.4
+Fixes Bug plugin Plazart Meetup:
+- Fix Element Menu not working
+- Fix Countdown Element Slide Features Events
+
+14.3.2017 Version 1.5.3
+Updates:
+- Updated Revolution Slider Version 5.4.1
+- Updated Visual Composer Version 5.1
+- Updated Plazart Meetup Plugin version 1.3.5
+  + Fix Our Speakers Slider Element
+
+
+21.1.2017 Version 1.5.2
+Updates:
+- Updated Revolution Slider Version 5.3.1.5
+- Updated Plugin The Events Calendar
+- Updated TZ Plus Gallery Pro version 2.0.1
+- Updated Plazart Meetup Plugin version 1.3.4
+
+Fixes Bug:
+- Fix Style Menu
+
+
+7.12.2016 Version 1.5.1
+Updates:
+- Updated Visual Composer Version 5.0.1
+
+25.11.2016 Version 1.5.0
+Fixes Bug:
+- Fixed One Click Demo.
+
+16.11.2016 Version 1.4.9
+Fixes Bug:
+- Fixed responsive problem of Home Slider element.
+- Fixed error of Equal height option in Video Meetup element.
+- Fixed error of countdown in Home Slider element.
+- Fixed error of Our Speaker element that could not use br tag in Employment box.
+
+Updates:
+- Updated Visual Composer Version 5.0
+- Updated Revolution Slider Version 5.3.0.2
+- Updated TZ Plus Gallery Pro plugin.
+- Added an option in Header Top Options (Theme Option) to select menu type for internal pages.
+- Added an option in Header Top Options (Theme Option) to select header position on mobiles.
+- Updated Plazart Meetup Plugin version 1.3.3
+    +  Added an option in Header Option element to select header position on mobiles.
+    +  Added Home Slider Multi Countdown element.
+
+16.8.2016 Version 1.4.8
+- Updated TZ Plus Gallery Pro version 2.0
+- Updated Plazart Meetup Plugin version 1.3.2
+    + Fix  Gmap Meetup Element
+
+22.7.2016 Version 1.4.7
+- Updated Font Option: Added Custom option
+- Updated Plazart Meetup Plugin version 1.3.1
+    + Added Skill Graphics element
+    + Added Pricing Table element
+
+8.7.2016 Version 1.4.6
+Fixes Bug:
+
+- Fixed error of displaying Sub Menu items On Mobile
+- Fixed error of About Meetup element.
+- Fixed error of loading home slider images(Home Slider element)
+
+Updates:
+
+- Updated Header Option element: Added options to change scrolling speed
+- Updated Home Slider element: Added Click Button One Page option
+- Updated Our Speaker element: Added Linkedln and Excerpt option
+- Updated Partner element: Added Loop, RTL, Auto options
+- Updated Theme Color Option: Added options to change footer background
+- Updated General Option: Added options to edit Back To Top
+- Updated Single Blog Option: Added options to hide/show information in single posts
+- Updated Font Option
+- Update the TGM Plugin Activation version 2.6.1
+- Updated TZ Plus Gallery Pro version 1.5
+- Updated Visual Composer version 4.12
+- Updated Revolution Slider version 5.2.6
+- Updated Plazart Meetup Plugin version 1.3
+ + Updated Row Type in Row Settings
+- Added Partner New element
+
+
+26.4.2016 Version 1.4.5
+- Fix error multiplication color
+- Update Plazart Meetup Plugin Version 1.2.5:
+    +  And Option Setting Color vs Link Title Event of element Event Meetup and Event Meetup Item
+
+18.4.2016 Version 1.4.4
+- Update Visual Composer Version 4.11.2.1
+- Update plugin Revolution Version 5.2.5
+- Update Plazart Meetup Plugin Version 1.2.4
+    + And Option Use Effects Light Box of element Our Speakers, Our Team Meetup
+- Fix Responsive Page 404
+- Fix Element Of Woocommerce on Homepage
+
+31.3.2016 Version 1.4.3
+- Update Visual Composer Version 4.11.1
+- Update plugin Revolution Version 5.2.3.5
+- Update Plazart Meetup Plugin Version 1.2.3
+    + Add Option element Partner
+- Fix Footer
+- Fix child theme
+
+10.3.2016 Version 1.4.2
+- Update plugin Tickera
+- Update Plazart Meetup Plugin Version 1.2.2:
+    + Update light box element meetup our team and our speakers
+    + Update element Header Option
+- Add option Header Top Options of theme option
+- Add option slider client of Template Page Default
+
+2.3.2016 Version 1.4.1
+- Update Plazart Meetup Plugin Version 1.2.1:
+  + Update Style element header
+  + Update element Home Slider
+  + Update plugin Revolution
+
+23.2.2016 Version 1.4
+- Update Plazart Meetup Plugin Version 1.2.0:
+        + Update Style element header
+        + Update Style element contact meetup
+        + Update light box element meetup our team and our speakers
+
+17.2.2016 Version 1.3
+- Update Right left
+- Update Visual Composer Version 4.10
+- Update Plazart Meetup Version 1.1.0
+
+3.2.2016
+- Update Woocommerce
+- Fix Header Option element
+
+1.09.2015
+maniva-restaurant
+- initial Version 1.0
+

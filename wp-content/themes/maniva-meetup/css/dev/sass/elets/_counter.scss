@@ -1,0 +1,30 @@
+/*element counter type2*/
+.tz-counter.tz_counter_type_2 {
+  position: relative;
+  z-index: 52;
+
+  .tz-counter-font {
+    margin-bottom: -12px;
+
+    i.fa {
+      font-size: 72px;
+      opacity: 0.4;
+    }
+  }
+
+  .tz-counter-number {
+    margin-bottom: 4px;
+    padding-bottom: unset;
+    &:after{
+      display: none;
+    }
+    em.stat-count {
+      color: $white-color;
+    }
+  }
+
+}
+.tz-counter{
+  position: relative;
+  z-index: 52;
+}

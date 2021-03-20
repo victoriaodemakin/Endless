@@ -1,0 +1,161 @@
+2021-03-11T18:04:52+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 27618128 bytes) in C:\wamp64\www\Endless\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 265
+
+2021-03-11T18:44:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 25169920 bytes) in C:\wamp64\www\Endless\wp-includes\functions.php on line 3953
+
+2021-03-11T18:54:56+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\wamp64\www\Endless\wp-includes\Requests\Transport\cURL.php on line 462
+
+2021-03-11T18:59:12+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 18878464 bytes) in C:\wamp64\www\Endless\wp-includes\functions.php on line 3953
+
+2021-03-11T19:00:32+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\wamp64\www\Endless\wp-includes\Requests\Transport\cURL.php on line 162
+
+2021-03-11T19:07:06+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\wamp64\www\Endless\wp-includes\Requests\Transport\cURL.php on line 162
+
+2021-03-11T19:31:36+00:00 CRITICAL Uncaught Error: Call to undefined function deactive_plugins() in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php:28
+Stack trace:
+#0 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(287): agTEA_check_tickera_install('')
+#1 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Endless\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Endless\wp-admin\admin.php(175): do_action('admin_init')
+#4 C:\wamp64\www\Endless\wp-admin\plugins.php(10): require_once('C:\\wamp64\\www\\E...')
+#5 {main}
+  thrown in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php on line 28
+
+2021-03-11T19:32:25+00:00 CRITICAL Uncaught Error: Call to undefined function deactive_plugins() in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php:28
+Stack trace:
+#0 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(287): agTEA_check_tickera_install('')
+#1 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(false, Array)
+#2 C:\wamp64\www\Endless\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Endless\wp-admin\admin-ajax.php(45): do_action('admin_init')
+#4 {main}
+  thrown in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php on line 28
+
+2021-03-11T19:32:48+00:00 CRITICAL Uncaught Error: Call to undefined function deactive_plugins() in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php:28
+Stack trace:
+#0 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(287): agTEA_check_tickera_install('')
+#1 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(false, Array)
+#2 C:\wamp64\www\Endless\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Endless\wp-admin\admin-ajax.php(45): do_action('admin_init')
+#4 {main}
+  thrown in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php on line 28
+
+2021-03-11T19:34:26+00:00 CRITICAL Uncaught Error: Call to undefined function deactive_plugins() in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php:28
+Stack trace:
+#0 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(287): agTEA_check_tickera_install('')
+#1 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(false, Array)
+#2 C:\wamp64\www\Endless\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Endless\wp-admin\admin-ajax.php(45): do_action('admin_init')
+#4 {main}
+  thrown in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php on line 28
+
+2021-03-11T19:34:28+00:00 CRITICAL Uncaught Error: Call to undefined function deactive_plugins() in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php:28
+Stack trace:
+#0 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(287): agTEA_check_tickera_install('')
+#1 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(false, Array)
+#2 C:\wamp64\www\Endless\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Endless\wp-admin\admin-ajax.php(45): do_action('admin_init')
+#4 {main}
+  thrown in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php on line 28
+
+2021-03-11T19:34:49+00:00 CRITICAL Uncaught Error: Call to undefined function deactive_plugins() in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php:28
+Stack trace:
+#0 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(287): agTEA_check_tickera_install('')
+#1 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(false, Array)
+#2 C:\wamp64\www\Endless\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Endless\wp-admin\admin-ajax.php(45): do_action('admin_init')
+#4 {main}
+  thrown in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php on line 28
+
+2021-03-11T19:35:44+00:00 CRITICAL Uncaught Error: Call to undefined function deactive_plugins() in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php:28
+Stack trace:
+#0 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(287): agTEA_check_tickera_install('')
+#1 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Endless\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Endless\wp-admin\admin.php(175): do_action('admin_init')
+#4 C:\wamp64\www\Endless\wp-admin\edit.php(10): require_once('C:\\wamp64\\www\\E...')
+#5 {main}
+  thrown in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php on line 28
+
+2021-03-11T19:35:46+00:00 CRITICAL Uncaught Error: Call to undefined function deactive_plugins() in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php:28
+Stack trace:
+#0 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(287): agTEA_check_tickera_install('')
+#1 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(false, Array)
+#2 C:\wamp64\www\Endless\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Endless\wp-admin\admin-ajax.php(45): do_action('admin_init')
+#4 {main}
+  thrown in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php on line 28
+
+2021-03-11T19:35:57+00:00 CRITICAL Uncaught Error: Call to undefined function deactive_plugins() in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php:28
+Stack trace:
+#0 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(287): agTEA_check_tickera_install('')
+#1 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Endless\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Endless\wp-admin\admin.php(175): do_action('admin_init')
+#4 C:\wamp64\www\Endless\wp-admin\plugins.php(10): require_once('C:\\wamp64\\www\\E...')
+#5 {main}
+  thrown in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php on line 28
+
+2021-03-11T19:36:26+00:00 CRITICAL Uncaught Error: Call to undefined function deactive_plugins() in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php:28
+Stack trace:
+#0 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(287): agTEA_check_tickera_install('')
+#1 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(false, Array)
+#2 C:\wamp64\www\Endless\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Endless\wp-admin\admin-ajax.php(45): do_action('admin_init')
+#4 {main}
+  thrown in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php on line 28
+
+2021-03-11T19:36:49+00:00 CRITICAL Uncaught Error: Call to undefined function deactive_plugins() in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php:28
+Stack trace:
+#0 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(287): agTEA_check_tickera_install('')
+#1 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Endless\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Endless\wp-admin\admin.php(175): do_action('admin_init')
+#4 C:\wamp64\www\Endless\wp-admin\plugins.php(10): require_once('C:\\wamp64\\www\\E...')
+#5 {main}
+  thrown in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php on line 28
+
+2021-03-11T19:36:53+00:00 CRITICAL Uncaught Error: Call to undefined function deactive_plugins() in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php:28
+Stack trace:
+#0 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(287): agTEA_check_tickera_install('')
+#1 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(false, Array)
+#2 C:\wamp64\www\Endless\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Endless\wp-admin\admin-ajax.php(45): do_action('admin_init')
+#4 {main}
+  thrown in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php on line 28
+
+2021-03-11T19:38:08+00:00 CRITICAL Uncaught Error: Call to undefined function deactive_plugins() in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php:28
+Stack trace:
+#0 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(287): agTEA_check_tickera_install('')
+#1 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\Endless\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Endless\wp-admin\admin.php(175): do_action('admin_init')
+#4 C:\wamp64\www\Endless\wp-admin\plugins.php(10): require_once('C:\\wamp64\\www\\E...')
+#5 {main}
+  thrown in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php on line 28
+
+2021-03-11T19:38:27+00:00 CRITICAL Uncaught Error: Call to undefined function deactive_plugins() in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php:28
+Stack trace:
+#0 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(287): agTEA_check_tickera_install('')
+#1 C:\wamp64\www\Endless\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(false, Array)
+#2 C:\wamp64\www\Endless\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\Endless\wp-admin\admin-ajax.php(45): do_action('admin_init')
+#4 {main}
+  thrown in C:\wamp64\www\Endless\wp-content\plugins\ag-tickera-email-attendees\ag-tickera-email-attendees.php on line 28
+
+2021-03-11T19:47:48+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\wamp64\www\Endless\wp-includes\Requests\Transport\cURL.php on line 162
+
+2021-03-11T19:47:56+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 23072768 bytes) in C:\wamp64\www\Endless\wp-includes\functions.php on line 3953
+
+2021-03-11T20:18:52+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20975616 bytes) in C:\wamp64\www\Endless\wp-includes\functions.php on line 3953
+
+2021-03-11T23:08:17+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 14684160 bytes) in C:\wamp64\www\Endless\wp-includes\functions.php on line 3953
+
+2021-03-11T23:26:02+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 6295552 bytes) in C:\wamp64\www\Endless\wp-includes\functions.php on line 3953
+
+2021-03-11T23:41:34+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 12587008 bytes) in C:\wamp64\www\Endless\wp-includes\functions.php on line 3953
+
+2021-03-11T23:44:19+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 4198400 bytes) in C:\wamp64\www\Endless\wp-includes\functions.php on line 3953
+
+2021-03-11T23:52:52+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 8392704 bytes) in C:\wamp64\www\Endless\wp-includes\functions.php on line 3953
+
+2021-03-11T23:53:42+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 12587008 bytes) in C:\wamp64\www\Endless\wp-includes\functions.php on line 3953
+

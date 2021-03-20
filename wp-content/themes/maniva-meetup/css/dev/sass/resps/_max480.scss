@@ -1,0 +1,29 @@
+@media only screen and (max-width: 480px) {
+  .tz_home_slider_meetup.event_slider .slides-navigation {
+    display: none;
+  }
+  .tz_home_slider_meetup .tz_loca_date span {
+    font-size: 12px;
+  }
+  .tz_home_slider_meetup.event_slider .tz_loca_date span:nth-of-type(1) {
+    margin-right: 10px;
+  }
+  .tz-counter.tz_counter_type_2 .tz-counter-font i.fa {
+    font-size: 45px;
+  }
+  .tz_maniva_meetup_title.tz_text_align_center .tz_roboto {
+    font-size: 20px !important;
+  }
+  .tz-footer-type4 .tz-footerTop .container aside.widget h3.module-title span {
+    font-size: 25px;
+    line-height: 50px;
+  }
+  .tz_btn_h6 a {
+    padding: 10px 40px;
+    letter-spacing: 0;
+    width: 210px;
+  }
+  .tz_meetup_btn a i.fa {
+    margin-left: 5px;
+  }
+}

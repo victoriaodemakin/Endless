@@ -1,0 +1,16 @@
+.tz_extend{
+  .tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_right .tz_meetup_start_time,
+  .tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_left .tz_meetup_start_time
+  {
+    color: #343a4e;
+  }
+}
+.wpb_tabs .tz_tabs_meetup .ui-widget-header .ui-state-default{
+  background-color: transparent;
+  a{
+    background-color: $white-color;
+  }
+  &:hover{
+    background-color: transparent;
+  }
+}

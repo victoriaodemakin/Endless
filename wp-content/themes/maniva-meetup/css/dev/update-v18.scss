@@ -1,0 +1,1521 @@
+$h6_color: #e45914;
+$h6_bg: #e45914;
+$h6_w_color: #ffffff;
+@mixin transition {
+  transition: all 0.2s linear 0s;
+  -moz-transition: all 0.2s linear 0s;
+  -webkit-transition: all 0.2s linear 0s;
+  -ms-transition: all 0.2s linear 0s;
+  -o-transition: all 0.2s linear 0s;
+}
+
+.tz_font_style_slider_revo_3 .tz_revolution {
+  text-align: center !important;
+}
+
+.tz_maniva_meetup_title.tz_maniva_meetup_title_type1.tz_text_align_center {
+  h3 b {
+    font-weight: 300;
+  }
+
+  .tz_meetup_title_content p {
+    padding: 0 100px;
+  }
+}
+
+.home9 {
+  .tz_box_event_slider {
+    h3 {
+      margin-bottom: 43px;
+    }
+
+    img {
+      margin-bottom: 35px;
+    }
+  }
+
+  .tz_btn_ticket {
+    margin-top: 45px;
+  }
+
+}
+
+.tz-homeType6.tz-homeTypeRelative {
+  background: #000000;
+
+  nav ul > li {
+    &:hover {
+      ul {
+        opacity: 1;
+        z-index: 1000;
+      }
+    }
+  }
+}
+
+.tz-headerHome.tz-homeType6 {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+
+  a.tz_logo {
+    padding: 28px 40px 23px 26px;
+  }
+
+  nav ul.tz-nav {
+    position: relative;
+    left: -70px;
+  }
+
+  nav {
+    display: flex;
+    justify-content: center;
+
+    ul.tz-nav > li > a {
+      color: $h6_w_color;
+      padding: 32px 18px 32px 18px;
+      letter-spacing: 0.1px;
+      margin: unset;
+
+      &:before {
+        content: "";
+        width: 100%;
+        height: 2px;
+        position: absolute;
+        background: $h6_bg;
+        top: 0;
+        left: 0;
+        opacity: 0;
+      }
+
+      &:hover {
+        &:before {
+          opacity: 1;
+          @include transition;
+        }
+
+      }
+    }
+  }
+
+  .tz_cart_search {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    z-index: 53;
+  }
+
+  .tz_shop_cart_icon {
+    padding: 27px 0;
+    margin: 0;
+
+    a.tz-shop-cart {
+      .fa-shopping-bag {
+        display: none;
+      }
+
+      span {
+        top: -20px;
+      }
+    }
+
+    .tz_shop_quick_cart_view {
+
+      .widget_shopping_cart {
+
+        top: 37px;
+        left: -125px;
+        z-index: 51;
+
+
+      }
+    }
+
+    &:hover {
+      .tz_shop_quick_cart_view .widget_shopping_cart {
+        opacity: 1;
+        visibility: visible;
+        @include transition;
+
+      }
+
+    }
+
+    .fa-shopping-cart {
+
+      &:before {
+        color: $h6_w_color;
+        cursor: pointer;
+        font-size: 15px;
+      }
+    }
+  }
+
+  .tz-headerRight__social {
+    padding: 27px 12px 10px 32px;
+  }
+
+  .tz-headerRight__social .menutype4__click {
+    color: #fff;
+    font-size: 14px;
+    line-height: 24px;
+  }
+
+  .tz-headerRight__social .menutype4__click:hover {
+    cursor: pointer;
+  }
+
+  .tz-headerRight__social .search_area_show.search-display__area .searchform {
+    opacity: 1;
+    transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+  }
+
+  .tz-headerRight__social .search-display__area {
+    display: none;
+  }
+
+  .tz-headerRight__social .search-display__area .searchform {
+    display: flex;
+    opacity: 0;
+    transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    position: absolute;
+    left: -250px;
+    right: 10px;
+    top: 80px;
+    z-index: 9;
+  }
+
+  .tz-headerRight__social .search-display__area .searchform .tzsearchlabel {
+    display: none;
+  }
+
+  .tz-headerRight__social .search-display__area .searchform .icon-search {
+    display: none;
+  }
+
+  .tz-headerRight__social .search-display__area .searchform .searchsubmit {
+    border: 1px solid #eee;
+    background: #ffffff url("../../images/icon-search.png") no-repeat 13px 10px;
+    padding: 0 20px;
+    color: #fff;
+    font-size: 0;
+    position: relative;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 2px;
+  }
+
+  .tz-headerRight__social .search-display__area .searchform .Tzsearchform {
+    border: 1px solid #fff;
+    box-shadow: none;
+    padding: 5px 20px;
+    width: 100%;
+    font-size: 12px;
+    line-height: 24px;
+    font-weight: normal;
+    border-radius: 2px;
+    margin-right: 2px;
+  }
+
+  .tz-form-search {
+    padding: 28px 10px 24px 31px;
+    margin: 0;
+    z-index: 51;
+
+    .fa-search {
+      &:before {
+        color: $h6_w_color;
+        cursor: pointer;
+        font-size: 15px;
+      }
+    }
+
+    &:hover {
+      form.searchform {
+        opacity: 1;
+        visibility: visible;
+        @include transition;
+      }
+
+    }
+
+    form.searchform {
+      position: absolute;
+      top: 83px;
+      right: 25px;
+      opacity: 0;
+
+      visibility: hidden;
+      @include transition;
+
+      .assistive-text {
+        display: none;
+      }
+
+      .Tzsearchform {
+        border: 1px solid #fff;
+        box-shadow: none;
+        padding: 5px 20px;
+        width: 100%;
+        font-size: 12px;
+        line-height: 24px;
+        font-weight: normal;
+        border-radius: 2px;
+        margin-right: 78px;
+        position: relative;
+        right: 51px;
+        top: -40px;
+        color: #868686;
+      }
+
+      .Tzsearchsubmit {
+        background: #ffffff;
+        font-weight: 400;
+        text-transform: uppercase;
+        border: 1px solid #eee;
+        padding: 4px 9px;
+        color: #e45914;
+        font-size: 8px;
+        position: relative;
+        top: -75px;
+        right: 0;
+        bottom: 0;
+        border-radius: 1px;
+      }
+    }
+  }
+
+}
+
+.tz_shop_cart_icon .tz_shop_quick_cart_view .widget_shopping_cart h2 {
+  display: none;
+}
+
+.tz_home_slider_meetup {
+  .container, .col-md-10, .col-md-2 {
+    padding: 0;
+  }
+
+  .tz_content_slider_meetup.tz_video {
+    text-align: left;
+
+    .tz_padding {
+      margin-top: -22px;
+    }
+
+    .tz_meetup_social {
+      margin-bottom: 25px;
+
+      a {
+        margin: 0 10px 0 0;
+        font-size: 16px;
+
+        &:hover {
+          i {
+            color: $h6_color;
+            @include transition;
+          }
+        }
+      }
+    }
+
+    .tz_meetup_slider_home_text {
+      h2 {
+        font-size: 70px;
+        font-weight: 200;
+        color: #ffffff;
+        line-height: 1em;
+        margin: 24px 0px 33px -4px;
+
+        strong {
+          color: $h6_color;
+        }
+      }
+
+      p {
+        a {
+          margin: 0 0;
+
+          img {
+            padding-top: 35px;
+            padding-bottom: 45px;
+          }
+        }
+      }
+
+    }
+  }
+
+  .tz_loca_date {
+    i {
+      color: $h6_bg;
+      font-size: 18px;
+      line-height: 24px;
+      margin-right: 7px;
+    }
+
+    span {
+      color: $h6_w_color;
+      font-size: 18px;
+      line-height: 24px;
+      font-family: 'Raleway', sans-serif;
+    }
+
+    .tz_loca {
+      margin-right: 29px;
+    }
+  }
+
+  .tz_readmore {
+    margin-top: 65px;
+
+    .tz_btn_more {
+      padding: 17px 32px;
+      background: $h6_bg;
+      border-radius: 5px;
+      font-size: 12px;
+      font-family: 'Raleway', sans-serif;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      margin: 0 0;
+
+      &:hover {
+        border: 1px solid #e45914;
+        background: transparent;
+        @include transition;
+      }
+    }
+  }
+
+  .tz_view_video {
+    margin-top: 92px;
+
+    .tz_border_1 {
+      position: relative;
+      width: 80px;
+      height: 80px;
+      padding: 10px;
+      background: #616571;
+      border-radius: 50%;
+      float: right;
+
+      &:hover {
+        .tz_border_2 {
+          background: $h6_bg;
+          @include transition;
+
+          i {
+            color: $h6_w_color;
+            @include transition;
+          }
+        }
+      }
+
+      .tz_border_2 {
+        width: 100%;
+        height: 100%;
+        background: aliceblue;
+        text-align: center;
+        border-radius: 50%;
+        position: relative;
+        display: inline-block;
+        margin: 0;
+
+        i {
+          font-size: 18px;
+          color: #e45914;
+          position: absolute;
+          top: 37%;
+          left: 40%;
+        }
+      }
+
+    }
+
+    .tz_tranform {
+      width: 100%;
+      transform: rotate(90deg);
+      margin-top: 90px;
+      margin-right: -55px;
+      float: right;
+
+      span {
+        display: table;
+        text-transform: capitalize;
+        font-weight: 400;
+        letter-spacing: 0.3px;
+        line-height: 17px;
+      }
+
+      p {
+        margin: 0;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.3px;
+        font-size: 14px;
+        color: $h6_w_color;
+      }
+    }
+  }
+}
+
+.tz_title_countdown {
+  margin: 20px 0;
+
+  p {
+    font-size: 24px;
+    color: $h6_w_color;
+    line-height: 1em;
+    font-weight: 100;
+    font-family: 'Raleway', sans-serif;
+  }
+
+  h6 {
+    font-size: 26px;
+    color: $h6_w_color;
+    line-height: 1em;
+  }
+}
+
+.tel_countdown {
+  .container {
+    padding-left: 0;
+    padding-right: 0;
+
+    .col-md-6 {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+
+  #tel-countdown__timer {
+    display: flex;
+    justify-content: flex-start;
+    color: $h6_w_color;
+
+    .tel-countdown__item {
+
+      margin: 20px 69px 20px 0;
+      font-size: 65px;
+      line-height: 14px;
+      letter-spacing: 0;
+      font-weight: 100;
+      text-align: center;
+      font-family: 'Raleway', sans-serif;
+
+      span {
+        display: inherit;
+        padding-top: 40px;
+        font-size: 16px;
+        line-height: 14px;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        font-weight: 500;
+        text-align: center;
+      }
+    }
+  }
+
+  .tz_no_title {
+    #tel-countdown__timer {
+      justify-content: center;
+
+      .tel-countdown__item {
+        margin: 20px 30px;
+        width: 142px;
+      }
+    }
+  }
+}
+
+.tz_maniva_meetup_title.tz_maniva_meetup_title_type5 {
+  .tz_meetup_video_sub_title {
+    font-size: 26px;
+    color: $h6_w_color;
+    letter-spacing: -0.9px;
+    line-height: 1em;
+    font-weight: 100;
+    margin-top: 0;
+    margin-bottom: 6px;
+  }
+
+  h3 {
+    color: $h6_w_color;
+    letter-spacing: 0;
+    line-height: 1em;
+    margin-bottom: 24px;
+    position: relative;
+
+    &:before {
+      content: "";
+      width: 50px;
+      height: 1px;
+      background: $h6_bg;
+      bottom: -30px;
+      position: absolute;
+    }
+  }
+
+  .tz_meetup_content {
+    margin-top: 75px;
+
+    p {
+      font-size: 16px;
+      color: #888c9a;
+      font-family: 'Raleway', sans-serif;
+      font-weight: 300;
+      line-height: 1.63em;
+    }
+  }
+}
+
+.tz_maniva_meetup_title_type5.tz_text_align_left {
+  .tz_meetup_content {
+
+    margin-right: 150px;
+  }
+
+  h3 {
+    &:before {
+      left: 2px;
+    }
+  }
+}
+
+.tz_maniva_meetup_title_type5.tz_text_align_right {
+  h3 {
+    &:before {
+      right: 0;
+    }
+  }
+}
+
+.tz_maniva_meetup_title_type5.tz_text_align_center {
+  h3 {
+    &:before {
+      left: 50%;
+      transform: translateX(-50%);
+    }
+  }
+}
+
+.tz_md_modal_show.tz_speakers_type2 {
+  .tz_our_speakers {
+    margin-bottom: 0;
+
+    &:hover {
+      .tz_our_speakers_img {
+        &:before {
+          background: rgba(0, 0, 0, 0.5);
+        }
+      }
+
+      .tz_meetup_social_speakers {
+        a {
+          &:hover {
+            color: $h6_color;
+            @include transition;
+          }
+        }
+      }
+    }
+  }
+
+  .tz_our_speakers_img {
+    border-radius: 5px;
+
+    img {
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+
+  .tz_our_speakers_container {
+    border: unset;
+    padding: 22px 0 15px;
+
+    span {
+      text-transform: uppercase;
+      color: #888c9a;
+      font-size: 11px;
+      letter-spacing: 1px;
+    }
+
+    h4 {
+      color: $h6_w_color;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+  }
+}
+
+.tel-pricing_table.tz_pricing_type2 {
+  border-radius: unset;
+  box-shadow: none;
+  border-left: 1px solid rgba(37, 39, 50, 0.1);
+  border-right: 1px solid rgba(37, 39, 50, 0.1);
+
+  &:hover {
+    .tel-pricing_table__footer {
+      a {
+        color: $h6_w_color;
+        background: $h6_bg;
+      }
+    }
+  }
+
+  .tel-pricing_table__header {
+    margin: 0px 50px;
+    background: transparent;
+    border-bottom: 1px solid rgba(37, 39, 50, 0.2);
+
+    h3 {
+      color: #2e3446;
+    }
+
+    h4 {
+      color: #888c9a;
+    }
+
+    p {
+      color: $h6_color;
+    }
+  }
+
+  .tel-pricing_table__content {
+    padding-top: 33px;
+    padding-bottom: 15px;
+
+    p {
+      margin-bottom: 16px;
+    }
+  }
+
+  .tel-pricing_table__footer {
+    a {
+      background: $h6_w_color;
+      border: 2px solid $h6_color;
+      padding: 14px 50px;
+      color: $h6_color;
+      width: auto;
+
+      &:hover {
+        color: $h6_w_color;
+        background: $h6_bg;
+      }
+    }
+  }
+}
+
+.tz_event_h6.wpb_tabs ul.wpb_tabs_nav.tz_meetup_tabs li {
+  border-radius: 25px;
+  background-color: transparent;
+}
+
+.tz_event_h6.wpb_tabs ul.wpb_tabs_nav.tz_meetup_tabs li a {
+  background-color: $h6_w_color;
+  color: #888c9a;
+}
+
+.tz_event_meetup.tz_event_type2 {
+  h3 {
+    color: $h6_w_color;
+    text-align: center;
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    letter-spacing: -0.9px;
+  }
+
+  .tz_event_meetup_subtitle {
+    font-family: "Roboto", serif;
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-weight: 300;
+
+    em {
+      font-weight: unset;
+    }
+  }
+
+  .tz_event_meettup_box_content {
+    color: #0b0c0f;
+
+    .tz_meetup_box_detail {
+      margin-bottom: 0;
+    }
+
+    &:after {
+      left: 50%;
+      height: 100%;
+      background: rgba(136, 140, 154, 0.2);
+    }
+
+    &:before {
+      width: 0;
+      height: 0;
+    }
+
+    .tz_meetup_box_detail_custom {
+
+      .tz_event_time {
+        line-height: 0;
+
+        i {
+          display: none;
+        }
+
+        span {
+          letter-spacing: 1px;
+          font-family: "Raleway", sans-serif;
+          font-size: 14px;
+          font-weight: 500;
+        }
+      }
+
+      h4 {
+        color: #252732;
+        letter-spacing: 0.5px;
+      }
+
+      .tz_event_meetup_item_content {
+        p {
+          font-size: 14px;
+          color: #888c9a;
+          font-family: 'Raleway', sans-serif;
+
+          strong {
+            display: block;
+            color: #888c9a;
+            font-weight: 200;
+            font-size: 14px;
+            letter-spacing: 1px;
+            line-height: 1.6em;
+            margin-top: -10px;
+          }
+
+          em {
+            display: block;
+            line-height: 1.9em;
+            margin-bottom: 0;
+          }
+
+          strong + br {
+            display: none;
+          }
+
+          em + br {
+            display: none;
+          }
+        }
+      }
+    }
+
+    .tz_event_meetup_content {
+      margin-top: 30px;
+      border-left: none;
+      padding-left: unset;
+      padding-bottom: 53px;
+
+      .tz_meetup_box_detail {
+        position: relative;
+        width: 50%;
+
+        &:before {
+          width: 23px;
+          height: 23px;
+          border: 6px solid #ffffff;
+          top: 57px;
+        }
+
+        span.tz_meetup_start_time {
+
+        }
+      }
+
+      .tz_left {
+        left: 0;
+        padding: 10px 120px 10px 0;
+        top: 25px;
+        display: flex;
+        justify-content: flex-end;
+
+        &:after {
+          right: 100px;
+          left: unset;
+          top: 34px;
+          border-right: 20px solid transparent;
+          border-left: unset;
+        }
+
+        &:before {
+          left: unset;
+          right: -13px;
+        }
+
+        .tz_meetup_start_time {
+          color: white;
+          left: unset;
+          top: 57px;
+          right: 20px;
+          letter-spacing: 1px;
+          font-family: 'Raleway', sans-serif;
+        }
+
+        .tz_meetup_box_detail_custom {
+          text-align: right;
+          padding: 30px 21px 22px 27px;
+        }
+      }
+
+      .tz_right {
+        left: 50%;
+        padding: 10px 0px 10px 120px;
+        top: 24px;
+
+        &:after {
+          left: 100px;
+          top: 27px;
+        }
+
+        &:before {
+          left: -10px;
+        }
+
+        .tz_meetup_start_time {
+          color: white;
+          left: 23px;
+          top: 58px;
+          letter-spacing: 1px;
+          font-family: 'Raleway', sans-serif;
+        }
+
+        .tz_meetup_box_detail_custom {
+          padding: 28px 20px 17px 21px;
+        }
+      }
+    }
+  }
+}
+
+.tz_recent_blog_meetup {
+  .tz_grid_blog {
+    .col-md-3, .col-md-4, .col-md-6, .col-md-12 {
+      margin-bottom: 30px;
+    }
+
+    .tz_image_recent_blog_meetup {
+      cursor: unset;
+
+      .tz_meetup_post_img {
+        height: 270px;
+
+        img {
+          height: 100%;
+          object-fit: cover;
+        }
+      }
+
+    }
+
+    .tz_content {
+      background: $h6_w_color;
+      padding: 23px 25px 32px 25px;
+
+
+      .tz_recent_blog_meetup_detail {
+        .tz_meetup_infomation {
+          font-family: 'Raleway', sans-serif;
+          font-style: normal;
+
+          a {
+            font-size: 14px;
+            text-transform: capitalize;
+          }
+
+          small {
+            font-size: 14px;
+            font-style: normal;
+          }
+        }
+
+        h4 {
+          font-size: 20px;
+          margin: 7px 0 15px;
+          text-transform: capitalize;
+
+        }
+
+        .tz_meetup_description_latest {
+          p {
+            color: #888c9a;
+            font-size: 14px;
+            font-family: 'Raleway', sans-serif;
+          }
+        }
+      }
+
+      .tz_readmore {
+        margin-top: 14px;
+
+        a {
+          color: #282d3d;
+          font-family: 'Raleway', sans-serif;
+          font-weight: 500;
+          font-size: 13px;
+
+          &:hover {
+            color: $h6_color;
+            @include transition;
+          }
+        }
+      }
+    }
+  }
+}
+
+.tz-footer-type4 {
+  position: relative;
+  text-align: center;
+  z-index: 1;
+
+  .tz-backtotop.tz-scrolling_back_top {
+    position: fixed;
+    bottom: 0;
+    width: 50px;
+    height: 50px;
+    visibility: hidden;
+    opacity: 0;
+    z-index: 1;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+
+    img {
+      width: 100%;
+      cursor: pointer;
+    }
+  }
+
+  .tz-backtotop.tz-scrolling_back_top.back_top_active {
+    visibility: visible;
+    bottom: 0;
+    opacity: 1;
+    -webkit-animation: bounce 2s ease infinite;
+    animation: bounce 2s ease infinite;
+  }
+
+  .tz-backtotop.position_right {
+    right: 10px;
+  }
+
+  .tz-backtotop.position_left {
+    left: 10px;
+  }
+
+  .tz-footerTop {
+    text-align: center;
+    margin-bottom: unset;
+    padding-bottom: 70px;
+
+    .container {
+      padding-top: 80px;
+      padding-bottom: 20px;
+      position: relative;
+      z-index: 2;
+
+      aside.widget {
+        h3.module-title {
+          font-family: "Roboto", serif;
+          font-size: 36px;
+          color: $h6_w_color;
+          line-height: 24px;
+          margin-bottom: 47px;
+
+          &:before {
+            display: none;
+          }
+
+          span {
+            font-size: 36px;
+            font-weight: 300;
+          }
+        }
+      }
+    }
+
+    .multicolor-subscribe-form .mcolor-subbox {
+      width: 67%;
+      border-radius: 30px;
+      -webkit-border-radius: 30px;
+      padding: 20px 30px;
+      color: #5e6479;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 15px;
+    }
+
+    aside.widget .multicolor-subscribe-form .mcolor-button {
+      width: auto;
+      position: absolute;
+      right: 16.5%;
+      bottom: 3px;
+      padding: 16px 26px;
+      border-radius: 30px;
+      height: 50px;
+      color: white;
+      background: #242732;
+      font-size: 12px;
+      letter-spacing: 4px;
+      border: none !important;
+
+      &:hover {
+        border: none !important;
+      }
+    }
+  }
+
+  .tz-footerBottom {
+    padding-top: 100px;
+    padding-bottom: 10px;
+
+    .tz_content {
+      margin-bottom: 160px;
+    }
+
+    .container {
+      position: relative;
+      z-index: 2;
+    }
+  }
+
+  .tz_footer_social_network {
+    ul {
+      &:before {
+        display: none;
+      }
+
+      &:after {
+        display: none;
+      }
+
+      li {
+        margin: 0 9px;
+
+        a {
+          padding: 13px 7px 15px 7px;
+          transition: all 400ms ease;
+          width: 50px;
+          height: 50px;
+          border-radius: 50%;
+          background: $h6_w_color;
+
+          i {
+            color: #888c9a;
+          }
+
+          &:hover {
+            background: $h6_bg;
+            @include transition;
+
+            i {
+              animation: unset;
+              color: $h6_w_color;
+              @include transition;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .tz_menu {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+
+    ul {
+      width: 100%;
+
+      li {
+        float: none;
+        display: inline-block;
+
+        a {
+          padding: 10px 21px;
+          color: #888c9a;
+          text-transform: uppercase;
+          font-size: 12px;
+          font-weight: 700;
+
+          &:hover {
+            color: $h6_bg;
+            @include transition;
+          }
+        }
+      }
+    }
+  }
+
+  .tz-footerBottom {
+
+    .tzcopyright {
+      position: relative;
+      border-top: 1px solid rgba(228, 89, 20, 0.4);
+
+      p {
+        color: #888c9a;
+        padding: 22px 0 30px;
+        letter-spacing: 1px;
+        font-family: "Lato", sans-serif;
+
+        a {
+          &:hover {
+            color: $h6_color;
+          }
+        }
+      }
+    }
+  }
+}
+
+
+.tz_maniva_meetup_title.tz_text_align_left {
+  h3 {
+    &:before {
+      left: 0;
+    }
+  }
+}
+
+.tz_maniva_meetup_title.tz_text_align_right {
+  h3 {
+    &:before {
+      right: 0;
+    }
+  }
+}
+
+.tz_meetup_wpb_tour_tabs.ui-widget-content {
+  background: transparent;
+  border: unset;
+}
+
+.tz_meetup_wpb_tour_tabs.ui-widget {
+  font-family: unset;
+}
+
+.wpb_tabs .tz_tabs_meetup {
+  .ui-widget-header {
+    background: transparent;
+    border: unset;
+
+    .ui-state-default {
+      border: unset;
+    }
+  }
+
+  .ui-helper-reset {
+    line-height: unset;
+  }
+}
+
+@media only screen and (max-width: 1440px) {
+  .tz_home_slider_meetup .tz_content_slider_meetup.tz_video .tz_meetup_social {
+    padding: 0 0;
+  }
+  .tz-headerHome.tz-homeType6 nav ul.tz-nav > li > a {
+    padding: 32px 10px 32px 10px;
+  }
+}
+
+@media only screen and (max-width: 1281px) {
+  .tz-headerHome.tz-homeType6 .tz_shop_cart_icon {
+    padding: 27px 0 0 0;
+
+    a.tz-shop-cart span {
+      top: -46px;
+      right: -25px;
+    }
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .tz_home_slider_meetup .tz_view_video .tz_tranform {
+    margin-top: 80px;
+    margin-right: -38px;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .tz_home_slider_meetup .tz_content_slider_meetup.tz_video .tz_meetup_slider_home_text h2 {
+    font-size: 50px;
+    margin: 10px 0px 20px 0px;
+  }
+  .tz-headerHome.tz-homeType6 {
+    nav ul.tz-nav {
+      left: unset;
+    }
+
+    nav {
+      margin-top: 52px;
+
+      ul.tz-nav > li > a {
+        color: #454545;
+        padding: 15px 18px 15px 18px;
+      }
+    }
+
+    .container-fluid {
+      padding-left: 0;
+      padding-right: 0;
+    }
+
+    .tz-header-content {
+      padding: 25px 0 0 0;
+    }
+
+    .tz_shop_cart_icon {
+      padding: 6px 0;
+      display: block;
+
+      a.tz-shop-cart span {
+        top: -20px;
+        right: -8px;
+      }
+    }
+
+    .tz-headerRight__social {
+      padding: 4px 20px 20px 30px;
+    }
+
+    a.tz_logo {
+      padding: 0;
+    }
+
+    .navbar-toggle {
+      z-index: 53;
+    }
+
+    .tzHeaderMenu_nav nav {
+      width: 100%;
+    }
+  }
+  .tz_home_slider_meetup {
+
+    .tz_content_slider_meetup.tz_video {
+      .tz_meetup_social {
+        margin-bottom: 20px;
+      }
+
+      .tz_meetup_slider_home_text p a img {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        width: 50%;
+      }
+
+      text-align: center;
+
+      .tz_padding {
+        margin-top: 0;
+        padding-top: 30px;
+      }
+    }
+
+    .tz_readmore {
+      margin-top: 40px;
+    }
+
+    .tz_view_video {
+      margin-top: 40px;
+
+      .tz_border_1 {
+        left: 50%;
+        transform: translateX(-50%);
+        margin-bottom: 20px;
+        float: unset;
+      }
+
+      .tz_tranform {
+        transform: unset;
+        margin-top: 0;
+        margin-right: 0;
+        float: unset;
+
+        span {
+          display: block;
+        }
+      }
+    }
+  }
+  .tz_title_countdown {
+    text-align: center;
+  }
+  .tel_countdown #tel-countdown__timer {
+    justify-content: center;
+    padding-top: 20px;
+
+    .tel-countdown__item {
+      margin: 20px 35px 20px 35px;
+    }
+  }
+  .tz_maniva_meetup_title.tz_maniva_meetup_title_type1.tz_text_align_center .tz_meetup_title_content p {
+    padding: 0 50px;
+  }
+  .tz_maniva_meetup_title_type5.tz_text_align_left .tz_meetup_content {
+    margin-right: 50px;
+  }
+  .tz-footer-type4 .tz_menu ul {
+    display: block !important;
+    background: transparent;
+    box-shadow: unset;
+  }
+  .tz-footer-type4 .tz-footerBottom .tz_content {
+    margin-bottom: 100px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .tz_home_slider_meetup .tz_content_slider_meetup.tz_video .tz_meetup_slider_home_text h2 {
+    font-size: 30px;
+  }
+  .tz_md_modal_show.tz_speakers_type2 .tz_our_speakers {
+    margin-bottom: 30px;
+  }
+  .tz-counter {
+    padding-bottom: 30px;
+  }
+  .tz_title_countdown {
+    p {
+      font-size: 16px;
+    }
+
+    h6 {
+      font-size: 20px;
+    }
+  }
+  .tel_countdown #tel-countdown__timer {
+    .tel-countdown__item {
+      margin: 20px 15px 20px 15px;
+      font-size: 50px;
+
+      span {
+        font-size: 12px;
+      }
+    }
+  }
+  .tz_maniva_meetup_title_type5 {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .tz_maniva_meetup_title.tz_maniva_meetup_title_type1.tz_text_align_center .tz_meetup_title_content p {
+    padding: 0 30px;
+    font-size: 14px;
+  }
+  .tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_right {
+    padding: 10px 0 10px 80px;
+  }
+  .tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_right {
+    padding: 10px 30px 10px 125px;
+    left: 15px;
+  }
+  .tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content:after{
+    left: 15px;
+  }
+  .tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_meetup_box_detail{
+    width: 100%;
+  }
+
+  .tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_left {
+    padding: 10px 30px 10px 125px;
+    left: 15px;
+  }
+  .tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_left:before{
+    left: -10px;
+    right: unset;
+  }
+  .tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_right:after {
+    left: 105px;
+    top: 20px;
+    border-right: 20px solid transparent;
+  }
+
+  .tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_left:after {
+    right: unset;
+    top: 20px;
+    left: 105px;
+    top: 20px;
+    border-right: 20px solid transparent;
+    border-left: 20px solid transparent;
+  }
+  .tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_left .tz_meetup_start_time{
+    right: unset;
+    left: 23px;
+    top: 58px;
+  }
+  .tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_left .tz_meetup_box_detail_custom{
+    text-align: left;
+    padding: 28px 20px 17px 21px;
+  }
+  .tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_meetup_box_detail_custom .tz_event_time {
+    line-height: 1;
+  }
+  .tz-footer-type4 .tz-footerTop .multicolor-subscribe-form .mcolor-subbox {
+    width: 100%;
+  }
+  .tz-footer-type4 .tz-footerTop aside.widget .multicolor-subscribe-form .mcolor-button {
+    right: 0;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .tz_home_slider_meetup .tz_content_slider_meetup.tz_video .tz_meetup_slider_home_text h2 {
+    font-size: 20px;
+  }
+  .tel_countdown #tel-countdown__timer {
+    display: block;
+  }
+  .tz_maniva_meetup_title_type5.tz_text_align_left .tz_meetup_content {
+    margin-right: 0px;
+  }
+  .tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_right .tz_meetup_start_time,
+  .tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_left .tz_meetup_start_time{
+    left: 5px;
+    top: 20px;
+    right: unset;
+  }
+  .tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_right,
+  .tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_left{
+    padding: 10px 10px 10px 60px;
+  }
+  .tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_right:after,
+  .tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_left:after{
+    left: 40px;
+  }
+  //.tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_right .tz_meetup_start_time {
+  //  display: none;
+  //}
+  //.tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_left .tz_meetup_start_time {
+  //  display: none;
+  //}
+  //
+  //.tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_right:after {
+  //  left: 0;
+  //}
+  //.tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_left:after {
+  //  right: 0;
+  //}
+  //.tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_right .tz_meetup_box_detail_custom {
+  //  padding: 28px 5px 17px 5px;
+  //}
+  //.tz_event_meetup.tz_event_type2 .tz_event_meettup_box_content .tz_event_meetup_content .tz_left .tz_meetup_box_detail_custom {
+  //  padding: 30px 5px 22px 5px;
+  //}
+
+}
